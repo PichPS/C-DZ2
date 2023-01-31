@@ -15,5 +15,5 @@ if (n > 2)
 }
 else 
 {
-    Console.WriteLine("третьей цифры нет!");
+    Console.WriteLine($" {nStr} -> третьей цифры нет!");
 }
