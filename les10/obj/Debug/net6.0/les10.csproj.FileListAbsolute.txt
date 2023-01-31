@@ -1,0 +1,15 @@
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\bin\Debug\net6.0\les10.exe
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\bin\Debug\net6.0\les10.deps.json
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\bin\Debug\net6.0\les10.runtimeconfig.json
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\bin\Debug\net6.0\les10.dll
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\bin\Debug\net6.0\les10.pdb
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.csproj.AssemblyReference.cache
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.AssemblyInfoInputs.cache
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.AssemblyInfo.cs
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.csproj.CoreCompileInputs.cache
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.dll
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\refint\les10.dll
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.pdb
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\les10.genruntimeconfig.cache
+C:\GB\Курс - знакомство с С#\ДЗ\DZ2\les10\obj\Debug\net6.0\ref\les10.dll
